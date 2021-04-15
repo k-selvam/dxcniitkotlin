@@ -3,6 +3,7 @@ package collections
 class Map {
 }
 val PassedStudents : MutableMap<Int, String> = mutableMapOf()
+
 fun main() {
     PassedStudents.put(1, "Selvam")
     PassedStudents.put(2, "azad")
